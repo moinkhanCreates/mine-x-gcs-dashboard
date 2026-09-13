@@ -1,6 +1,21 @@
-# ⛏️ MINE-X // Sub-Surface AI-Powered Tactical Mine Safety GCS
+# Underground Mine Safety & Rescue Rover : GCS Telemetry Dashboard
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-GCS%20Development-007ACC?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Streamlit-E05252?style=flat-square" alt="Stack">
+  <img src="https://img.shields.io/badge/Scope-Surface%20GCS%20%26%20Analytics-D97706?style=flat-square" alt="Scope">
+  <br>
+  <img src="https://img.shields.io/badge/SIH-PS%2026039-4B5563?style=flat-square" alt="SIH PS">
+  <img src="https://img.shields.io/badge/Compliance-DGMS%20Ex--d%20Standards-10B981?style=flat-square" alt="Compliance">
+</p>
+
+<p align="center">
+  <b>Surface Ground Control Station · GCS Development · SIH 2026</b>
+</p>
+
+<p align="center">
+  Ground Control Station (GCS) console and real-time telemetry analytics platform for an underground mine safety and rescue rover, developed for Smart India Hackathon Problem Statement 26039 — <i>AI-Powered Underground Mine Safety, Monitoring and Rescue System</i> (Government of Jharkhand, Department of Higher & Technical Education).
+</p>
 
 > [!IMPORTANT]
 > **OPERATIONAL SAFETY NOTICE**
