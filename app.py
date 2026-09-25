@@ -1,5 +1,5 @@
 """
-app.py
+streamlit_app.py
 ======
 MINE-X // Underground Mine Safety GCS Telemetry Dashboard
 
